@@ -1,0 +1,19 @@
+.menu{
+    transition: 1s;
+    min-height: 20px;
+}
+
+.collapse{
+    height: 0;
+    overflow: hidden;
+}
+
+.body_comment{
+    transition: 1s;
+    height: 40px;
+}
+
+.hide_body{
+    height: 0;
+    overflow: hidden;
+}
